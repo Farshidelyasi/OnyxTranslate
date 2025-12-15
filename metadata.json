@@ -1,0 +1,5 @@
+{
+  "name": "Onyx Translate",
+  "description": "A modern, AMOLED-themed AI translation application capable of emulating various translation engines using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
